@@ -11,7 +11,7 @@ You can also see [My personal CV](https://yihdu.github.io/assets/files/CV_yihdu.
 
 ## Todo
 - [ ]  add ZH version
-- [ ]  local complation option
+- [ ]  local compilation option
 
 ## Acknowledgments
 
